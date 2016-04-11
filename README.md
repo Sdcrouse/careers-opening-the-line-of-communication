@@ -111,13 +111,43 @@ However, cold emails can still be effective. If you’re sending a cold reach-ou
 
 ## On Following Up 
 
-If you send 1 email and the person doesn’t respond, it’s a good idea to follow up 7 days later. In a future lesson we go over the specifics for effective follow up emails. If you still don’t get a response after 2 emails, move on. 
+If you send one email and the person doesn’t respond, it’s a good idea to follow up seven days later. In a future lesson we go over the specifics for effective follow up emails. If you still don’t get a response after two emails, move on. 
 
 ## Great! Now You Have a Meeting
 
 Sending out emails that receive responses can take some trial and error. Even if you follow all the suggestions to a T, not everyone will agree to grab a coffee, or even respond to your message. Remember, it’s like a sales funnel. And out all the people you contact, only a certain percentage will say “yes”. (Which is why it’s important to reach out to as many people as possible!) 
 
 However, for those that do say “yes”, you just landed yourself an informal meeting. And the next lesson will discuss what you must do before, during, and after the meeting.  
+
+## Assignment- Opening the Line of Communication
+
+Create a Google doc. Title it ""Your Name" + Opening the Line of Communication."
+
+Remember the three scenarios that we started this lesson off with? In this assignment, you will write appropriate opening emails for each of those scenarios. As a refresher, here they are again:
+
+Scenario 1: You just met a developer who works at a company that’s hiring. 
+
+Scenario 2: Your best friend introduces you to her friend over email. Your friend says you and her friend should meet for coffee but doesn’t specify why.
+
+Scenario 3: You have a cousin who only knows you in the context of big family dinners but he happens to work at a big tech company. You’ve never before spoken to him about work stuff.
+
+Copy and paste these scenarios in your Google doc, and below each one, write the email you would send to that person. 
+
+**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Opening the Line of Communication”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+
+Update your Careers Prep Tracker sheet with the date submitted.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-opening-the-line-of-communication'>Careers Opening the Line of Communication </a> on Learn.co and start learning to code for free.</p>
