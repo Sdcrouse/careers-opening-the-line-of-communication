@@ -133,7 +133,7 @@ Scenario 3: You have a cousin who only knows you in the context of big family di
 
 Copy and paste these scenarios in your Google doc, and below each one, write the email you would send to that person. 
 
-**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
 
 In this case, your email subject line will be “”Your Name” + Opening the Line of Communication”
 
