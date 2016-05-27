@@ -84,7 +84,7 @@ Unlike the good message examples above, this one is lacking. It doesn’t clearl
 
 Here is another ineffective email example 
 
->Hello. My name is Cynthia Dressler.
+>Hello. My name is Sarah Dressler.
 
 >I looked through the information on your website and am very interested in your internship program. I noticed the 2016 Software Engineer posting on your job website which also peaked my interest. Is this related to the training program?
 
