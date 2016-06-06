@@ -115,9 +115,9 @@ If you send one email and the person doesn’t respond, it’s a good idea to fo
 
 ## Great! Now You Have a Meeting
 
-Sending out emails that receive responses can take some trial and error. Even if you follow all the suggestions to a T, not everyone will agree to grab a coffee, or even respond to your message. Remember, it’s like a sales funnel. And out all the people you contact, only a certain percentage will say “yes”. (Which is why it’s important to reach out to as many people as possible!) 
+Sending out emails that receive responses can take some trial and error. Even if you follow all the suggestions to a T, not everyone will agree to grab a coffee, or even respond to your message. Remember, it’s like a sales funnel. And out of all the people you contact, only a certain percentage will say “yes”. (Which is why it’s important to reach out to as many people as possible!) 
 
-However, for those that do say “yes”, you just landed yourself an informal meeting. And the next lesson will discuss what you must do before, during, and after the meeting.  
+However, for those who do say “yes”, you just landed yourself an informal meeting. And the next lesson will discuss what you must do before, during, and after the meeting.  
 
 ## Assignment- Opening the Line of Communication
 
@@ -153,3 +153,5 @@ Update your Careers Prep Tracker sheet with the date submitted.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-opening-the-line-of-communication'>Careers Opening the Line of Communication </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-opening-the-line-of-communication'>Opening The Line Of Communication</a> on Learn.co and start learning to code for free.</p>
