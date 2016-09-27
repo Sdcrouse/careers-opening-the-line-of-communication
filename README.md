@@ -119,7 +119,7 @@ Sending out emails that receive responses can take some trial and error. Even if
 
 However, for those who do say “yes”, you just landed yourself an informal meeting. And the next lesson will discuss what you must do before, during, and after the meeting.  
 
-## Assignment- Opening the Line of Communication
+## If You Have a Premium Account: Assignment- Opening the Line of Communication
 
 Create a Google doc. Title it ""Your Name" + Opening the Line of Communication."
 
@@ -151,7 +151,5 @@ In the body of your email again include:
 
 Update your Careers Prep Tracker sheet with the date submitted.
 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-opening-the-line-of-communication'>Careers Opening the Line of Communication </a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-opening-the-line-of-communication'>Opening The Line Of Communication</a> on Learn.co and start learning to code for free.</p>
