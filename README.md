@@ -119,37 +119,5 @@ Sending out emails that receive responses can take some trial and error. Even if
 
 However, for those who do say “yes”, you just landed yourself an informal meeting. And the next lesson will discuss what you must do before, during, and after the meeting.  
 
-## If You Have a Premium Account: Assignment- Opening the Line of Communication
-
-Create a Google doc. Title it ""Your Name" + Opening the Line of Communication."
-
-Remember the three scenarios that we started this lesson off with? In this assignment, you will write appropriate opening emails for each of those scenarios. As a refresher, here they are again:
-
-Scenario 1: You just met a developer who works at a company that’s hiring. 
-
-Scenario 2: Your best friend introduces you to her friend over email. Your friend says you and her friend should meet for coffee but doesn’t specify why.
-
-Scenario 3: You have a cousin who only knows you in the context of big family dinners but he happens to work at a big tech company. You’ve never before spoken to him about work stuff.
-
-Copy and paste these scenarios in your Google doc, and below each one, write the email you would send to that person. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Opening the Line of Communication”
-
-In the body of your email again include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-
-Update your Careers Prep Tracker sheet with the date submitted.
-
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-opening-the-line-of-communication'>Opening The Line Of Communication</a> on Learn.co and start learning to code for free.</p>
