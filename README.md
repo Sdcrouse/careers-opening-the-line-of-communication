@@ -34,7 +34,7 @@ Subject lines are one of the first things a recipient sees when an email arrives
 
 A good subject line is like an eye-catching headline – the more intriguing it is, the more likely it is to garner a glance. One way to make a subject line stand out is to mention something that is relevant and that matters to that person. This can be the name of someone you know in common, an alma mater, or a shared interest. 
 
-**Good Networking Email Subject Lines**
+## Good Networking Email Subject Lines
 
 Below are a few examples of engaging subject lines for a variety of networking outreach email types you will send during your job search.
 
@@ -49,7 +49,7 @@ Below are a few examples of engaging subject lines for a variety of networking o
   * Referred by [name of shared contact]
 
 
-**Poor Networking Email Subject Lines**
+## Poor Networking Email Subject Lines
 
 Subject lines that mention something specific stand out, but vague ones often look like spam or come across as thoughtless and are more likely to be ignored. These are less strong examples that are less likely to receive a reply:
 
@@ -178,11 +178,11 @@ Each follow up you send should be compelling, courteous, make a specific ‘ask�
   
 (All powerful things in your favor!)
 
-**Follow Up Taboos**
+## Follow Up Taboos
 
 As mentioned above, do not take a lack of response personally, or allow your emotions or feelings of anger, annoyance, etc. to infiltrate your thoughts or worse, your follow up communications themselves. There is no place for this in your vocabulary as a professional who is worth knowing. Do not use language that expresses presumptuousness, sarcasm, scolding, or bitterness because someone did not respond; doing so indicates extreme immaturity. Instead, your follow ups should always be engaging, kind, courteous, and respectful.
 
-**Follow Up Subject Lines**
+## Follow Up Subject Lines
 
 The subject line of your follow up is just as critical as the subject line of your original email. As we’ve mentioned above, since working professional are incredibly busy, they may have genuinely missed seeing your email the first time or forgotten about it. That’s why making it clear that your email is a follow up to a previous email is so important; this lets the recipient know that you’ve tried contacting them before about something that you consider to be important to engage with them about. 
 
@@ -200,7 +200,7 @@ Here are some examples of appropriate subject lines for networking follow up ema
 
   * Follow Up: Referred by [name of shared contact]
 
-**Bad Follow Up Subject Line Examples**
+## Bad Follow Up Subject Line Examples
 
 As mentioned above, do not take a lack of response personally or allow it to infiltrate your thoughts and/or your follow up communications. Since the subject line is often the very first thing the recipient sees, yours should always be relevant, engaging, concise, to the point, and most of all...professional. 
 
@@ -281,7 +281,6 @@ In this example, Samantha does not make it clear who she is or why she is reachi
 >Thank you.
 >Samantha 
 
-**Recap**
 
 If you don’t get a response to a networking outreach email, follow up within 5 business days days at the latest. Each follow-up you send should be compelling, courteous, and make a specific ‘ask’. In other words, make it easy for the other person to understand why you want to connect with them, and make them want to connect with you (be kind, respectful, engaging, and give value). Don’t take a lack of response personally or shoot back with rude or disrespectful messaging. You only get one first impression with each person, and this is your career, after all.
 
