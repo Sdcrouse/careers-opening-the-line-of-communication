@@ -1,10 +1,10 @@
 # Opening the Line of Communication 
 
-**Scenario 1:** You just met a developer who works at a company that’s hiring. 
+**Scenario 1:** You just met a practitioner in your field who works at a company that’s hiring. 
 
 **Scenario 2:** Your best friend introduces you to her friend over email. Your friend says you and her friend should meet for coffee but doesn’t specify why.
 
-**Scenario 3:** You have a cousin who only knows you in the context of big family dinners but he happens to work at a big tech company. You’ve never before spoken to him about work stuff.
+**Scenario 3:** You have a cousin who only knows you in the context of big family dinners, but he happens to work at a big company. You’ve never before spoken to him about work stuff.
 
 **Scenario 4:** After finding a job posting at your dream company, you do some research and locate the contact info of the recruiter for the role. You do not know this person, and have no mutual connections.
 
@@ -16,7 +16,7 @@ In this lesson we are going to show you how to open the line of communication wh
 
 The goal is to catch the person’s attention, and make it easy for them to respond to you. Remember, the person you’re reaching out to may get lots of emails every day. You must give the recipient a reason to want to meet with you or connect on the phone. This means your email should be succinct, demonstrate your interest in them/their company, have one ask, and be respectful of their time.
 
-If possible, you should try to make a personal connection between you and the recipient. Maybe you met at a Ruby on Rails Meetup a few days before. Maybe you both grew up outside of Philadelphia. Or perhaps you both love Yoga. Or you’re related. Finding a mutual connection/interest to reference may mean you have to go out of your way to do some background research. However, that kind of personal touch will help you stand out in a sea of emails.
+If possible, you should try to make a personal connection between you and the recipient. Maybe you met at a meetup a few days before. Maybe you both grew up outside of Philadelphia. Or perhaps you both love Yoga. Or you’re related. Finding a mutual connection/interest to reference may mean you have to go out of your way to do some background research. However, that kind of personal touch will help you stand out in a sea of emails.
 
 Below are the key components of what makes a great email. You can use this as a checklist every time you send out a message asking for a phone chat or meeting.
 
@@ -40,7 +40,7 @@ Below are a few examples of engaging subject lines for a variety of networking o
 
   * Greetings From a Fellow [name of shared university] Alum
 
-  * [Name of open source project they contributed to] Fan Asking for Advice
+  * [Title of their blog post] Fan Asking for Advice
 
   * Quick Question About [name of their company or project]
 
@@ -75,25 +75,25 @@ Below is an example of a good email:
 
 >Hi Katie,
 
->I recently graduated from The Flatiron School as a Full Stack Developer. I'm very intrigued by Company X. It’s astonishing how you are able to measure 7 billion daily interactions across all the social platforms. 
+>I recently graduated from The Flatiron School's [Your program of study] program. I'm very intrigued by Company X. It’s astonishing how you are able to measure 7 billion daily interactions across all the social platforms. 
 
->It looks like you’re mainly recruiting for senior-level backend devs right now, so I was curious as to whether perhaps a more junior role might be coming up in the future, or even an internship. Might you have just a few minutes next week to talk about what it’s like to work at Company X?
+>It looks like you’re mainly recruiting for senior-level [positions] right now, so I was curious as to whether perhaps a more junior role might be coming up in the future, or even an internship. Might you have just a few minutes next week to talk about what it’s like to work at Company X?
 
->Attached are a few code snippets I wrote recently for a project called AdjustAList.
+>Attached is a link to my online portfolio.
 
 >Thanks, and hope to hear from you soon!
 
 >Vanessa
 
-This message clearly states who the sender is, why they’re contacting the recipient, displays their interest in the company, has one specific ask, and even includes some code snippets from a project. 
+This message clearly states who the sender is, why they’re contacting the recipient, displays their interest in the company, has one specific ask, and even includes a link to their portfolio. 
 
 Here’s another good example:
 
->Subject: Great Meeting You at NYC.rb!
+>Subject: Great Meeting You at [Event Name]!
 
 >Hi Jason,
 
->It was great to meet you at the NYC.rb meetup last night. Thank you for your enthusiasm for my karaoke app — I had a great time talking with you about your dream music apps.
+>It was great to meet you at the [Event Name] meetup last night. Thank you for your enthusiasm for my karaoke app — I had a great time talking with you about your dream music apps.
 
 >I'm in school through the end of next week, but would love to meet and talk sometime soon. Do you have any time late next week? I'd love to hear what you are most excited about regarding the future of Company X, and to get your perspective on what it’s like to work at such a fast growing company. 
 
@@ -127,7 +127,7 @@ Here is another ineffective email example:
 
 >Hello. My name is Sarah Dressler.
 
->I looked through the information on your website and am very interested in your internship program. I noticed the 2016 Software Engineer posting on your job website which also peaked my interest. Is this related to the training program?
+>I looked through the information on your website and am very interested in your internship program. I noticed the 2016 [Job Title] posting on your job website which also peaked my interest. Is this related to the training program?
 
 >I would be interested to meet with you at some point if your interested.
 
@@ -135,7 +135,7 @@ Here is another ineffective email example:
 
 >Cynthia
 
-This email has a few problems. First, there is no subject line or recipient at all. Next, Sarah does not clearly say who she is [is she a student, engineer, or neither?]. The other issue is that the main “ask” is about a training program—not about meeting/speaking. Then Sarah closes the email by casually suggesting to meet in person. There are also glaring grammatical errors and inappropriate punctuation. Overall, this message fails to give the recipient a reason to want to connect with the sender.
+This email has a few problems. First, there is no subject line or recipient at all. Next, Sarah does not clearly say who she is [is she a student, working professional, or neither?]. The other issue is that the main “ask” is about a training program—not about meeting/speaking. Then Sarah closes the email by casually suggesting to meet in person. There are also glaring grammatical errors and inappropriate punctuation. Overall, this message fails to give the recipient a reason to want to connect with the sender.
 
 
 ## Approaching People You Know Versus People You Don't Know
@@ -166,7 +166,7 @@ Each follow up you send should be compelling, courteous, make a specific ‘ask�
   
   * You look up to them as a role model/subject matter expert
   
-  * You are serious about a career path as a developer
+  * You are serious about a career path in your field of study
   
   * You are a responsible, proactive, passionate individual
   
@@ -184,7 +184,7 @@ As mentioned above, do not take a lack of response personally, or allow your emo
 
 ## Follow Up Subject Lines
 
-The subject line of your follow up is just as critical as the subject line of your original email. As we’ve mentioned above, since working professional are incredibly busy, they may have genuinely missed seeing your email the first time or forgotten about it. That’s why making it clear that your email is a follow up to a previous email is so important; this lets the recipient know that you’ve tried contacting them before about something that you consider to be important to engage with them about. 
+The subject line of your follow up is just as critical as the subject line of your original email. As we’ve mentioned above, since working professionals are incredibly busy, they may have genuinely missed seeing your email the first time or forgotten about it. That’s why making it clear that your email is a follow up to a previous email is so important; this lets the recipient know that you’ve tried contacting them before about something that you consider to be important to engage with them about. 
 
 Sometimes all it takes is a follow up to elicit a response.  In turn, make your subject line similar to your original email subject line (so they can recognize it), with additional ‘follow up’ languaging, keeping it concise and to the point. 
 
@@ -220,34 +220,34 @@ In this example Dave starts off with a nice pleasantry greeting, and instantly s
 
 >Dear Sue,
 
->I hope you had a wonderful weekend. I'm reaching out to follow up on my email from January 8th regarding potentially meeting for a coffee chat. Being a fellow bootcamp grad and front-end enthusiast who relocated to Seattle from Vancouver, I’m eager to learn about what local strategies or resources you found helpful in making the transition to your role at [Company]; Congrats, by the way! 
+>I hope you had a wonderful weekend. I'm reaching out to follow up on my email from January 8th regarding potentially meeting for a coffee chat. Being a fellow bootcamp grad and [field of study] enthusiast who relocated to Seattle from Vancouver, I’m eager to learn about what local strategies or resources you found helpful in making the transition to your role at [Company]; Congrats, by the way! 
 
->Having recently started exploring the Seattle tech scene, I’ve started compiling a list of must-attend events and dev seminars that I’d be happy to share, if they could be helpful to you in any way. I also think it’s fascinating that you’re now working at [Company], and I’m curious to learn what it’s like to work there and the cool types of things you’re building.
+>Having recently started exploring the Seattle [your field of study] scene, I’ve started compiling a list of must-attend events and seminars that I’d be happy to share, if they could be helpful to you in any way. I also think it’s fascinating that you’re now working at [Company], and I’m curious to learn what it’s like to work there and the cool types of things you’re building.
 
 >Would a brief meeting be possible over coffee (my treat)? I’m available weekdays after 5pm. Thanks very much for your time!
 
 >Sincerely,
 
 >Dave Turner, Flatiron School 2017
->[insert an esignature with your phone number, and links to your GitHub, blog, LinkedIn, and website]
+>[insert an esignature with your phone number, and links to your GitHub, blog, LinkedIn, and portfolio/website]
 
 In this example Samantha states her reason for following up with Ms. Adams (an HR person at a company Samantha plans to apply to). She then concisely highlights specific examples of why she is a potential fit for the role and how it can benefit the company, before making her ‘ask’ (a brief conversation) and providing her availability. All in all, courteous, specific and value-driven.
 
->Subject: Follow-Up: Junior Full Stack Developer Position
+>Subject: Follow-Up: [Job Title] Position
 
 >Dear Ms. Adams,
 
->I hope this email finds you well. My name is Samantha Weber and I am following up on my email to you from March 19th regarding [Company’s] Junior Full Stack Developer position. 
+>I hope this email finds you well. My name is Samantha Weber and I am following up on my email to you from March 19th regarding [Company’s] [Job Title] position. 
 
->Having recently graduated from the Flatiron School’s Full Stack Web Development immersive program, I have strong skills in Ruby, Rails, JavaScript, and React. In addition to having built a variety of dynamic web apps in these languages, I also have three years of client-facing experience as Account Manager at [Company], enabling me to seamlessly build strong relationships and ensure service excellence with [Company’s] internal business clients. 
+>Having recently graduated from the Flatiron School’s [your program of study] program, I have strong skills in [your technical skill set]. In addition to having built a variety of dynamic [apps/projects] in these technologies, I also have three years of client-facing experience as Account Manager at [Company], enabling me to seamlessly build strong relationships and ensure service excellence with [Company’s] internal business clients. 
 
->Would you have some brief time to chat further (via phone or virtually) about my background, and how I can add immediate value to [Company’s] development team? I can make myself available at a time that is convenient for you.
+>Would you have some brief time to chat further (via phone or virtually) about my background, and how I can add immediate value to your company? I can make myself available at a time that is convenient for you.
 
 >Thank you very much for your time. I look forward to you reply.
 
 >Sincerely,
 >Samantha Weber
->[insert an esignature with your phone number, and links to your GitHub, blog, LinkedIn, and website]
+>[insert an esignature with your phone number, and links to your GitHub, blog, LinkedIn, and portfolio/website]
 
 ## Bad Networking Email Follow Up Examples
 
@@ -274,7 +274,7 @@ In this example, Samantha does not make it clear who she is or why she is reachi
 
 >Dear Ms. Adams,
 
->I’m not sure why you never responded to my email. Having recently graduated from the Flatiron School’s Full Stack Web Development immersive program, you should really want to talk to me. I have lots of experience that this role requires. 
+>I’m not sure why you never responded to my email. Having recently graduated from the Flatiron School’s [your program of study] program, you should really want to talk to me. I have lots of experience that this role requires. 
 
 >Can we chat, please? 
 
@@ -292,7 +292,4 @@ Work with your Career Coach to craft effective follow ups (they are an expert in
 Sending out emails that receive responses can take some trial and error. Even if you follow all the suggestions to a T, not everyone will agree to grab a coffee, or even respond to your message. Remember, it’s like a sales funnel. And out of all the people you contact, only a certain percentage will say “yes”. (Which is why it’s important to reach out to as many people as possible!)
 
 However, for those who do say “yes”, you just landed yourself an informal meeting. And the forthcoming Interviewing unit will discuss what you must do before, during, and after the meeting.
- 
 
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-opening-the-line-of-communication'>Opening The Line Of Communication</a> on Learn.co and start learning to code for free.</p>
