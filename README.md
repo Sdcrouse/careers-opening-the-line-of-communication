@@ -253,7 +253,7 @@ In this example Samantha states her reason for following up with Ms. Adams (an H
 
 ## Bad Networking Email Follow Up Examples
 
-Let’s take the two good follow up example above and show how they should NOT be written.
+Let’s take the two good follow up examples above and show how they should NOT be written.
 
 In this example Dave starts off too informally and vague in his subject line, too informally with “Hey” in the body, and starts complaining right away that he hasn’t heard from Sue. Then he starts asking her for things, but shows no appreciation and makes no ‘give’/offer of value to her in return. Furthermore, the closing lacks common courtesy, as well as his full name and contact details. 
 
