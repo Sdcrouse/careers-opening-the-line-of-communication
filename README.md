@@ -156,6 +156,7 @@ However, cold emails can still be effective. If you’re sending a cold outreach
 ## Following Up After a Networking Email (After No Response)
 
 If you send  an email and the person doesn’t respond, it’s a good idea to follow up 5 business days (seven calendar days) later. *Don’t* take a lack of response personally or assume the person doesn’t want to talk to you. Most of the time, nothing could be further from the truth! Working professionals are incredibly busy, and their inboxes are usually filled to the brim.  
+
 Perhaps they didn’t see your email the first time, they genuinely forgot about it, or they were away on vacation. These are just a few of the many possible reasons why they didn’t respond. In turn, a follow-up email is a *must.*
 
 ## What an Effective Networking Email Follow Up Communicates
@@ -214,13 +215,13 @@ Here are some examples of poor subject lines for networking follow up emails tha
 
 ## Good Networking Email Follow Up Examples
 
-In this example Dave starts off with a nice pleasantry greeting, and instantly states why he is emailing Sue (again). He then ‘connects the dots’ between what they have in common, helping further ‘break the ice’ and build commonality/a reason to connect. This example also express enthusiasm and curiosity, is congratulatory, and offers to give value (treating Sue to coffee, and sharing information on local tech events) in addition to asking (for a coffee chat).
+In this example Dave starts off with a nice pleasant greeting, and instantly states why he is emailing Sue (again). He then ‘connects the dots’ between what they have in common, helping further ‘break the ice’ and build commonality/a reason to connect. This example also express enthusiasm and curiosity, is congratulatory, and offers to give value (treating Sue to coffee, and sharing information on local tech events) in addition to asking (for a coffee chat).
 
 >Subject: Follow Up: Seattle Flatiron Grad Looking to Connect
 
 >Dear Sue,
 
->I hope you had a wonderful weekend. I'm reaching out to follow up on my email from January 8th regarding potentially meeting for a coffee chat. Being a fellow bootcamp grad and [field of study] enthusiast who relocated to Seattle from Vancouver, I’m eager to learn about what local strategies or resources you found helpful in making the transition to your role at [Company]; Congrats, by the way! 
+>I hope you had a wonderful weekend. I'm reaching out to follow up on my email from January 8th regarding potentially meeting for a coffee chat. Being a fellow bootcamp grad and [field of study] enthusiast who relocated to Seattle from Vancouver, I’m eager to learn about what local strategies or resources you found helpful in making the transition to your role at [Company]. Congrats, by the way! 
 
 >Having recently started exploring the Seattle [your field of study] scene, I’ve started compiling a list of must-attend events and seminars that I’d be happy to share, if they could be helpful to you in any way. I also think it’s fascinating that you’re now working at [Company], and I’m curious to learn what it’s like to work there and the cool types of things you’re building.
 
@@ -243,9 +244,10 @@ In this example Samantha states her reason for following up with Ms. Adams (an H
 
 >Would you have some brief time to chat further (via phone or virtually) about my background, and how I can add immediate value to your company? I can make myself available at a time that is convenient for you.
 
->Thank you very much for your time. I look forward to you reply.
+>Thank you very much for your time. I look forward to your reply.
 
 >Sincerely,
+
 >Samantha Weber
 >[insert an esignature with your phone number, and links to your GitHub, blog, LinkedIn, and portfolio/website]
 
